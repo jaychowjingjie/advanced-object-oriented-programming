@@ -1,0 +1,43 @@
+close_local_view Ajax
+open local_view Ajax
+open_local_view Ajax
+open_local_view Ajax
+open_local_view Snort
+close_local_view Snort
+default
+close_map_view
+open_map_view
+open_map_view
+close_sailing_view
+open_sailing_view
+open_sailing_view
+show
+Xerxes course 270 2
+open_local_view Xerxes
+Ajax course 0 2
+go show
+go show
+go show
+Ajax stop
+go show
+go show
+go
+go show
+Ajax attack Xerxes
+go
+show
+go show
+go show
+Ajax destination Shell 2
+go show
+open_local_view Xerxes
+create Xerxes Cruiser 5 20
+show
+Xerxes course 0 2
+go show
+go show
+close_local_view Xerxes
+open_local_view Xerxes
+go show
+go show
+quit

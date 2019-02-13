@@ -1,0 +1,160 @@
+Sim_object Exxon constructed
+Island Exxon constructed
+Sim_object Shell constructed
+Island Shell constructed
+Sim_object Bermuda constructed
+Island Bermuda constructed
+Sim_object Ajax constructed
+Track_base constructed
+Ship Ajax constructed
+Cruiser Ajax constructed
+Sim_object Xerxes constructed
+Track_base constructed
+Ship Xerxes constructed
+Cruiser Xerxes constructed
+Sim_object Valdez constructed
+Track_base constructed
+Ship Valdez constructed
+Tanker Valdez constructed
+Model constructed
+Controller constructed
+
+Time 0: Enter command: Unrecognized command!
+
+Time 0: Enter command: Invalid name for new object!
+
+Time 0: Enter command: Invalid name for new object!
+
+Time 0: Enter command: Invalid name for new object!
+
+Time 0: Enter command: Expected a double!
+
+Time 0: Enter command: Invalid name for new object!
+
+Time 0: Enter command: Trying to create ship of unknown type!
+
+Time 0: Enter command: Sim_object Valdez constructed
+Track_base constructed
+Ship Valdez constructed
+Tanker Valdez constructed
+Tanker Valdez destructed
+Ship Valdez destructed
+Track_base destructed
+Sim_object Valdez destructed
+New object has duplicate name!
+
+Time 0: Enter command: Sim_object Valiant constructed
+Track_base constructed
+Ship Valiant constructed
+Tanker Valiant constructed
+
+Time 0: Enter command: Invalid name for new object!
+
+Time 0: Enter command: Sim_object Shell constructed
+Track_base constructed
+Ship Shell constructed
+Tanker Shell constructed
+Tanker Shell destructed
+Ship Shell destructed
+Track_base destructed
+Sim_object Shell destructed
+New object has duplicate name!
+
+Time 0: Enter command: Ship not found!
+
+Time 0: Enter command: Unrecognized command!
+
+Time 0: Enter command: Island not found!
+
+Time 0: Enter command: Valdez will sail on course 225.00 deg, speed 1.00 nm/hr to Bermuda
+
+Time 0: Enter command: Unrecognized command!
+
+Time 0: Enter command: Valdez will load at Bermuda
+
+Time 0: Enter command: Load and unload cargo destinations are the same!
+
+Time 0: Enter command: Valdez will unload at Exxon
+Valdez will sail on course 225.00 deg, speed 10.00 nm/hr to Bermuda
+
+Time 0: Enter command: Cannot attack itself!
+
+Time 0: Enter command: Invalid heading entered!
+
+Time 0: Enter command: Negative speed entered!
+
+Time 0: Enter command: View is not open!
+
+Time 0: Enter command: View constructed
+
+Time 0: Enter command: View is already open!
+
+Time 0: Enter command: Expected an integer!
+
+Time 0: Enter command: New map size is too small!
+
+Time 0: Enter command: New map size is too small!
+
+Time 0: Enter command: New map size is too big!
+
+Time 0: Enter command: Expected a double!
+
+Time 0: Enter command: Expected a double!
+
+Time 0: Enter command: New map scale must be positive!
+
+Time 0: Enter command: Unrecognized command!
+
+Time 0: Enter command: Was not attacking!
+
+Time 0: Enter command: Can't dock!
+
+Time 0: Enter command: Must be docked!
+
+Time 0: Enter command: Cannot load at a destination!
+
+Time 0: Enter command: Cannot unload at a destination!
+
+Time 0: Enter command: Cannot attack!
+
+Time 0: Enter command: Unrecognized command!
+
+Time 0: Enter command: Cannot attack!
+
+Time 0: Enter command: Ajax will attack Valdez
+
+Time 0: Enter command: Already attacking this target!
+
+Time 0: Enter command: Tanker has cargo destinations!
+
+Time 0: Enter command: Valdez stopping at (30.00, 30.00)
+Valdez now has no cargo destinations
+
+Time 0: Enter command: Ship cannot go that fast!
+
+Time 0: Enter command: View destructed
+Done
+Cruiser Ajax destructed
+Ship Ajax destructed
+Track_base destructed
+Sim_object Ajax destructed
+Island Bermuda destructed
+Sim_object Bermuda destructed
+Island Exxon destructed
+Sim_object Exxon destructed
+Island Shell destructed
+Sim_object Shell destructed
+Tanker Valdez destructed
+Ship Valdez destructed
+Track_base destructed
+Sim_object Valdez destructed
+Tanker Valiant destructed
+Ship Valiant destructed
+Track_base destructed
+Sim_object Valiant destructed
+Cruiser Xerxes destructed
+Ship Xerxes destructed
+Track_base destructed
+Sim_object Xerxes destructed
+Model destructed
+Controller destructed

@@ -1,0 +1,61 @@
+/* Notes:
+1. Study the samples to see instances of these strings in use.
+
+2. Two or more strings on the same line would be part of the same
+line of output, with some variable value(s) output between them.
+
+*/
+
+/* top level messages */
+"\nEnter command: "
+"Done"
+
+/* print command messages */
+"Library is empty"
+"Library contains "  " records:"
+"Catalog is empty"
+"Catalog contains "  " collections:"
+"Memory allocations:"
+"Records: "  ""
+"Collections: "
+
+/* Record output */
+": " " u "  /* used when rating is zero */
+": "       /* used when rating is non-zero */
+
+/* Collection output */
+"Collection " " contains:"
+" None"
+
+
+/* add/modify/delete/save/restore command messages */
+"Record " " added"
+"Collection " " added"
+"Member " " added"
+"Rating for record " " changed to 
+"Record " " deleted"
+"Collection " " deleted"
+"Member " " deleted"
+"All collections deleted"
+"All records deleted"
+"All data deleted"
+***"Data saved"
+***"Data loaded"
+
+/* command error messages */
+"Unrecognized command!"
+"Library already has a record with this title!"
+"Catalog already has a collection with this name!"
+"Record is already a member in the collection!"
+"Record is not a member in the collection!"
+"Cannot delete a record that is a member of a collection!"
+"Cannot clear all records unless all collections are empty!"
+"No record with that title!"
+"No record with that ID!"
+"No collection with that name!"
+"Could not read a title!"
+"Could not read an integer value!"
+"Rating is out of range!"
+"Could not open file!"
+"Invalid data found in file!"
+

@@ -1,0 +1,61 @@
+I logged into login.engin.umich.edu, and uploaded my source code to a new directory Private/p0. This directory contained the the exact set of .h and .cpp files that I wanted to submit. 
+
+-bash-4.2$ cd p0
+-bash-4.2$ ls
+Collection.cpp  p0_main.cpp  Record.h     Utility.h
+Collection.h    Record.cpp   Utility.cpp
+
+After setting up the proper version of gcc, I did a build to check that all files needed were present: 
+
+-bash-4.2$ g++ -std=c++14 -pedantic-errors *.cpp
+
+I also uploaded the samples and my other test files to that same directory and used I/O redirection and diff or sdiff to check that on the engin platform my program appeared to be working correctly. One such check:
+
+-bash-4.2$ ./a.out <normal_in.txt >test_out.txt
+-bash-4.2$ sdiff normal_out.txt test_out.txt
+
+*** Important *** If you changed *anything at all* in your code, you should assume it is broken! Perform the above test build and at least some I/O redirection checks before submitting your modified code!
+
+Then after checking again to be sure that I had no extraneous .h or .cpp files present, I submitted all of the .h and .cpp files with wild cards, thus making sure that I got everything included. If you leave a file out, the build will fail, and you waste the submission! Notice exactly what the response of the submission script is. 
+
+--------------------
+
+-bash-4.2$ ls *.h
+Collection.h  Record.h  Utility.h
+-bash-4.2$ ls *.cpp
+Collection.cpp  p0_main.cpp  Record.cpp  Utility.cpp
+-bash-4.2$ submit381 0 *.h *.cpp
+
+You are about to submit the following files:
+	Collection.h
+	Record.h
+	Utility.h
+	Collection.cpp
+	p0_main.cpp
+	Record.cpp
+	Utility.cpp
+
+Submit these files? Type y or RETURN to submit, anything else to abort: y
+Connecting directly to eecs381@grader8.eecs.umich.edu
+
+Mailed:	Collection.h
+	Record.h
+	Utility.h
+	Collection.cpp
+	p0_main.cpp
+	Record.cpp
+	Utility.cpp
+
+You should receive an email acknowledgement from eecs381@grader8.eecs.umich.edu
+for this submission.  Look over the acknowledgement to make sure you submitted
+the correct source code file(s) (e.g. that it's not the object or executable
+file, etc.).
+-bash-4.2$ 
+
+------------------
+
+If you don't see this output, something is wrong (for example, maybe the software on the machine isn't complete). Try a different machine or email us for help. If everything is OK, you should get an email sent to your uniqname@umich.edu with the autograder response. When the load is heavy, this can take several minutes. Review the other web pages about the autograder and how to deal with it. 
+
+*** It is most important not to submit again until you have received a response. ***
+If the response seems to be badly delayed, send to eecs381help.
+

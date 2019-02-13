@@ -1,0 +1,46 @@
+zap X Tanker -5 20
+create X Tanker -5 20
+create X Tanker -5 skidoo
+create $M Tanker -5 skidoo
+create M42 a b c
+create Oil_City Torpedo_boat -5 20
+create OilCity Torpedo_boat -5 20
+create Valdez Tanker -5 20
+create Valiant Tanker -5 20
+create quit Tanker -5 20
+create Shell Tanker -5 20
+Ajax attack OilCity
+OilCity destination Cuba
+Valdez destination Cuba 10
+Valdez destination Bermuda 1z 0
+Valdez load_at Bermuda
+Valdez unload_at Bermuda
+Valdez unload_at Exxon
+Ajax attack Ajax
+Ajax course 369 10 Ajax course XXX 10
+Ajax course 359 -10
+size x1
+open
+open
+size x1
+size -10
+size 4
+size 50
+Ajax course xyz 10
+zoom xyz
+zoom -2
+Ajax stop_attacking
+Ajax stop_attack
+Ajax dock_at Bermuda
+Ajax refuel
+Ajax load_at Bermuda
+Ajax unload_at Bermuda
+Valdez attack Ajax
+Valdex stop_attack Valdez stop_attack
+Valdez stop_attack
+Ajax attack Valdez
+Ajax attack Valdez
+Valdez destination Bermuda 15
+Valdez stop
+Valdez destination Bermuda 15
+quit

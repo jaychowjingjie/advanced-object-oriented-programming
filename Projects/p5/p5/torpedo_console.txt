@@ -1,0 +1,756 @@
+
+Time 0: Enter command: create Zebec Torpedo_boat 30 -10
+
+Time 0: Enter command: Ajax position -10 -10 15
+Ajax will sail on course 225.00 deg, speed 15.00 nm/hr to (-10.00, -10.00)
+
+Time 0: Enter command: Zebec attack Ajax
+Zebec will attack Ajax
+
+Time 0: Enter command: open_map_view
+
+Time 0: Enter command: show
+Display size: 25, scale: 2.00, origin: (-10.00, -10.00)
+Treasure_Island outside the map
+  38 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  32 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . Sh. . . . . . . . . . . . . . Va. . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  26 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . Xe. . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  20 . . . . . . . . . . . . . . . Be. . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  14 . . . . . . . . . . . . Aj. . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . Ex. . . . . . . . . . . . . . 
+   8 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+   2 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  -4 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+ -10 . . . . . . . . . . . . . . . . . . . . Ze. . . . 
+   -10    -4     2     8    14    20    26    32    38
+
+Time 0: Enter command: go
+Ajax now at (4.39, 4.39)
+Island Exxon now has 1200.00 tons
+Island Shell now has 1200.00 tons
+Island Treasure_Island now has 105.00 tons
+Valdez stopped at (30.00, 30.00)
+Xerxes stopped at (25.00, 25.00)
+Zebec stopped at (30.00, -10.00)
+Zebec is attacking
+Zebec will sail on course 299.34 deg, speed 12.00 nm/hr to (4.39, 4.39)
+
+Time 1: Enter command: show
+Display size: 25, scale: 2.00, origin: (-10.00, -10.00)
+Treasure_Island outside the map
+  38 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  32 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . Sh. . . . . . . . . . . . . . Va. . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  26 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . Xe. . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  20 . . . . . . . . . . . . . . . Be. . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  14 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . Ex. . . . . . . . . . . . . . 
+   8 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . Aj. . . . . . . . . . . . . . . . . 
+   2 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  -4 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+ -10 . . . . . . . . . . . . . . . . . . . . Ze. . . . 
+   -10    -4     2     8    14    20    26    32    38
+
+Time 1: Enter command: go
+Ajax now at (-6.21, -6.21)
+Island Exxon now has 1400.00 tons
+Island Shell now has 1400.00 tons
+Island Treasure_Island now has 110.00 tons
+Valdez stopped at (30.00, 30.00)
+Xerxes stopped at (25.00, 25.00)
+Zebec now at (19.54, -4.12)
+Zebec is attacking
+Zebec will sail on course 265.35 deg, speed 12.00 nm/hr to (-6.21, -6.21)
+
+Time 2: Enter command: show
+Display size: 25, scale: 2.00, origin: (-10.00, -10.00)
+Treasure_Island outside the map
+  38 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  32 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . Sh. . . . . . . . . . . . . . Va. . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  26 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . Xe. . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  20 . . . . . . . . . . . . . . . Be. . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  14 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . Ex. . . . . . . . . . . . . . 
+   8 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+   2 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  -4 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . Ze. . . . . . . . . . 
+     . Aj. . . . . . . . . . . . . . . . . . . . . . . 
+ -10 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   -10    -4     2     8    14    20    26    32    38
+
+Time 2: Enter command: go
+Ajax now at (-10.00, -10.00)
+Island Exxon now has 1600.00 tons
+Island Shell now has 1600.00 tons
+Island Treasure_Island now has 115.00 tons
+Valdez stopped at (30.00, 30.00)
+Xerxes stopped at (25.00, 25.00)
+Zebec now at (7.58, -5.09)
+Zebec is attacking
+Zebec will sail on course 254.40 deg, speed 12.00 nm/hr to (-10.00, -10.00)
+
+Time 3: Enter command: show
+Display size: 25, scale: 2.00, origin: (-10.00, -10.00)
+Treasure_Island outside the map
+  38 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  32 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . Sh. . . . . . . . . . . . . . Va. . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  26 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . Xe. . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  20 . . . . . . . . . . . . . . . Be. . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  14 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . Ex. . . . . . . . . . . . . . 
+   8 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+   2 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  -4 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . Ze. . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+ -10 Aj. . . . . . . . . . . . . . . . . . . . . . . . 
+   -10    -4     2     8    14    20    26    32    38
+
+Time 3: Enter command: go
+Ajax stopped at (-10.00, -10.00)
+Island Exxon now has 1800.00 tons
+Island Shell now has 1800.00 tons
+Island Treasure_Island now has 120.00 tons
+Valdez stopped at (30.00, 30.00)
+Xerxes stopped at (25.00, 25.00)
+Zebec now at (-3.98, -8.32)
+Zebec is attacking
+Zebec will sail on course 254.40 deg, speed 12.00 nm/hr to (-10.00, -10.00)
+
+Time 4: Enter command: show
+Display size: 25, scale: 2.00, origin: (-10.00, -10.00)
+Treasure_Island outside the map
+  38 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  32 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . Sh. . . . . . . . . . . . . . Va. . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  26 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . Xe. . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  20 . . . . . . . . . . . . . . . Be. . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  14 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . Ex. . . . . . . . . . . . . . 
+   8 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+   2 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  -4 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+ -10 Aj. . Ze. . . . . . . . . . . . . . . . . . . . . 
+   -10    -4     2     8    14    20    26    32    38
+
+Time 4: Enter command: Ajax destination Shell 15
+Ajax will sail on course 14.04 deg, speed 15.00 nm/hr to Shell
+
+Time 4: Enter command: go
+Ajax now at (-6.36, 4.55)
+Island Exxon now has 2000.00 tons
+Island Shell now has 2000.00 tons
+Island Treasure_Island now has 125.00 tons
+Valdez stopped at (30.00, 30.00)
+Xerxes stopped at (25.00, 25.00)
+Zebec now at (-10.00, -10.00)
+Zebec is attacking
+Zebec will sail on course 14.04 deg, speed 12.00 nm/hr to (-6.36, 4.55)
+
+Time 5: Enter command: show
+Display size: 25, scale: 2.00, origin: (-10.00, -10.00)
+Treasure_Island outside the map
+  38 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  32 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . Sh. . . . . . . . . . . . . . Va. . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  26 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . Xe. . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  20 . . . . . . . . . . . . . . . Be. . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  14 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . Ex. . . . . . . . . . . . . . 
+   8 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . Aj. . . . . . . . . . . . . . . . . . . . . . . 
+   2 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  -4 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+ -10 Ze. . . . . . . . . . . . . . . . . . . . . . . . 
+   -10    -4     2     8    14    20    26    32    38
+
+Time 5: Enter command: go
+Ajax now at (-2.72, 19.10)
+Island Exxon now has 2200.00 tons
+Island Shell now has 2200.00 tons
+Island Treasure_Island now has 130.00 tons
+Valdez stopped at (30.00, 30.00)
+Xerxes stopped at (25.00, 25.00)
+Zebec now at (-7.09, 1.64)
+Zebec is attacking
+Zebec will sail on course 14.04 deg, speed 12.00 nm/hr to (-2.72, 19.10)
+
+Time 6: Enter command: show
+Display size: 25, scale: 2.00, origin: (-10.00, -10.00)
+Treasure_Island outside the map
+  38 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  32 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . Sh. . . . . . . . . . . . . . Va. . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  26 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . Xe. . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  20 . . . . . . . . . . . . . . . Be. . . . . . . . . 
+     . . . Aj. . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  14 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . Ex. . . . . . . . . . . . . . 
+   8 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+   2 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . Ze. . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  -4 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+ -10 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   -10    -4     2     8    14    20    26    32    38
+
+Time 6: Enter command: go
+Ajax now at (0.00, 30.00)
+Island Exxon now has 2400.00 tons
+Island Shell now has 2400.00 tons
+Island Treasure_Island now has 135.00 tons
+Valdez stopped at (30.00, 30.00)
+Xerxes stopped at (25.00, 25.00)
+Zebec now at (-4.18, 13.28)
+Zebec is attacking
+Zebec will sail on course 14.04 deg, speed 12.00 nm/hr to (0.00, 30.00)
+
+Time 7: Enter command: show
+Display size: 25, scale: 2.00, origin: (-10.00, -10.00)
+Treasure_Island outside the map
+  38 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  32 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . * . . . . . . . . . . . . . . Va. . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  26 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . Xe. . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  20 . . . . . . . . . . . . . . . Be. . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  14 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . Ze. . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . Ex. . . . . . . . . . . . . . 
+   8 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+   2 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  -4 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+ -10 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   -10    -4     2     8    14    20    26    32    38
+
+Time 7: Enter command: go
+Ajax stopped at (0.00, 30.00)
+Island Exxon now has 2600.00 tons
+Island Shell now has 2600.00 tons
+Island Treasure_Island now has 140.00 tons
+Valdez stopped at (30.00, 30.00)
+Xerxes stopped at (25.00, 25.00)
+Zebec now at (-1.27, 24.93)
+Zebec is attacking
+Zebec will sail on course 14.04 deg, speed 12.00 nm/hr to (0.00, 30.00)
+
+Time 8: Enter command: show
+Display size: 25, scale: 2.00, origin: (-10.00, -10.00)
+Treasure_Island outside the map
+  38 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  32 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . * . . . . . . . . . . . . . . Va. . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  26 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . Ze. . . . . . . . . . . . Xe. . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  20 . . . . . . . . . . . . . . . Be. . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  14 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . Ex. . . . . . . . . . . . . . 
+   8 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+   2 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  -4 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+ -10 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   -10    -4     2     8    14    20    26    32    38
+
+Time 8: Enter command: go
+Ajax stopped at (0.00, 30.00)
+Island Exxon now has 2800.00 tons
+Island Shell now has 2800.00 tons
+Island Treasure_Island now has 145.00 tons
+Valdez stopped at (30.00, 30.00)
+Xerxes stopped at (25.00, 25.00)
+Zebec now at (0.00, 30.00)
+Zebec is attacking
+Zebec fires
+Ajax hit with 3, resistance now 3
+Ajax will attack Zebec
+
+Time 9: Enter command: show
+Display size: 25, scale: 2.00, origin: (-10.00, -10.00)
+Treasure_Island outside the map
+  38 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  32 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . * . . . . . . . . . . . . . . Va. . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  26 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . Xe. . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  20 . . . . . . . . . . . . . . . Be. . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  14 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . Ex. . . . . . . . . . . . . . 
+   8 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+   2 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  -4 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+ -10 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   -10    -4     2     8    14    20    26    32    38
+
+Time 9: Enter command: go
+Ajax stopped at (0.00, 30.00)
+Ajax is attacking
+Ajax fires
+Zebec hit with 3, resistance now 6
+Zebec taking evasive action
+Zebec stopping attack
+Zebec will sail on course 116.57 deg, speed 12.00 nm/hr to Bermuda
+Island Exxon now has 3000.00 tons
+Island Shell now has 3000.00 tons
+Island Treasure_Island now has 150.00 tons
+Valdez stopped at (30.00, 30.00)
+Xerxes stopped at (25.00, 25.00)
+Zebec now at (10.73, 24.63)
+
+Time 10: Enter command: show
+Display size: 25, scale: 2.00, origin: (-10.00, -10.00)
+Treasure_Island outside the map
+  38 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  32 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . * . . . . . . . . . . . . . . Va. . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  26 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . Ze. . . . . . Xe. . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  20 . . . . . . . . . . . . . . . Be. . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  14 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . Ex. . . . . . . . . . . . . . 
+   8 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+   2 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  -4 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+ -10 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   -10    -4     2     8    14    20    26    32    38
+
+Time 10: Enter command: go
+Ajax stopped at (0.00, 30.00)
+Ajax is attacking
+Ajax fires
+Zebec hit with 3, resistance now 3
+Zebec taking evasive action
+Zebec will sail on course 116.57 deg, speed 12.00 nm/hr to Bermuda
+Island Exxon now has 3200.00 tons
+Island Shell now has 3200.00 tons
+Island Treasure_Island now has 155.00 tons
+Valdez stopped at (30.00, 30.00)
+Xerxes stopped at (25.00, 25.00)
+Zebec now at (20.00, 20.00)
+
+Time 11: Enter command: show
+Display size: 25, scale: 2.00, origin: (-10.00, -10.00)
+Treasure_Island outside the map
+  38 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  32 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . * . . . . . . . . . . . . . . Va. . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  26 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . Xe. . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  20 . . . . . . . . . . . . . . . * . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  14 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . Ex. . . . . . . . . . . . . . 
+   8 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+   2 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  -4 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+ -10 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   -10    -4     2     8    14    20    26    32    38
+
+Time 11: Enter command: go
+Ajax stopped at (0.00, 30.00)
+Ajax is attacking
+Ajax target is out of range
+Ajax stopping attack
+Island Exxon now has 3400.00 tons
+Island Shell now has 3400.00 tons
+Island Treasure_Island now has 160.00 tons
+Valdez stopped at (30.00, 30.00)
+Xerxes stopped at (25.00, 25.00)
+Zebec stopped at (20.00, 20.00)
+
+Time 12: Enter command: Zebec dock_at Bermuda
+Zebec docked at Bermuda
+
+Time 12: Enter command: Zebec refuel
+Island Bermuda supplied 0.00 tons of fuel
+Zebec now has 270.79 tons of fuel
+
+Time 12: Enter command: Zebec attack Valdez
+Zebec will attack Valdez
+
+Time 12: Enter command: go
+Ajax stopped at (0.00, 30.00)
+Island Exxon now has 3600.00 tons
+Island Shell now has 3600.00 tons
+Island Treasure_Island now has 165.00 tons
+Valdez stopped at (30.00, 30.00)
+Xerxes stopped at (25.00, 25.00)
+Zebec docked at Bermuda
+Zebec is attacking
+Zebec will sail on course 45.00 deg, speed 12.00 nm/hr to (30.00, 30.00)
+
+Time 13: Enter command: status
+Cruiser Ajax at (0.00, 30.00), fuel: 234.14 tons, resistance: 3
+Stopped
+
+Island Bermuda at position (20.00, 20.00)
+Fuel available: 0.00 tons
+
+Island Exxon at position (10.00, 10.00)
+Fuel available: 3600.00 tons
+
+Island Shell at position (0.00, 30.00)
+Fuel available: 3600.00 tons
+
+Island Treasure_Island at position (50.00, 5.00)
+Fuel available: 165.00 tons
+
+Tanker Valdez at (30.00, 30.00), fuel: 100.00 tons, resistance: 0
+Stopped
+Cargo: 0.00 tons, no cargo destinations
+
+Cruiser Xerxes at (25.00, 25.00), fuel: 1000.00 tons, resistance: 6
+Stopped
+
+Torpedo_boat Zebec at (20.00, 20.00), fuel: 270.79 tons, resistance: 3
+Moving to (30.00, 30.00) on course 45.00 deg, speed 12.00 nm/hr
+Attacking Valdez
+
+Time 13: Enter command: show
+Display size: 25, scale: 2.00, origin: (-10.00, -10.00)
+Treasure_Island outside the map
+  38 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  32 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . * . . . . . . . . . . . . . . Va. . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  26 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . Xe. . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  20 . . . . . . . . . . . . . . . * . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  14 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . Ex. . . . . . . . . . . . . . 
+   8 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+   2 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  -4 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+ -10 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   -10    -4     2     8    14    20    26    32    38
+
+Time 13: Enter command: go
+Ajax stopped at (0.00, 30.00)
+Island Exxon now has 3800.00 tons
+Island Shell now has 3800.00 tons
+Island Treasure_Island now has 170.00 tons
+Valdez stopped at (30.00, 30.00)
+Xerxes stopped at (25.00, 25.00)
+Zebec now at (28.49, 28.49)
+Zebec is attacking
+Zebec fires
+Valdez hit with 3, resistance now -3
+Valdez sunk
+
+Time 14: Enter command: show
+Display size: 25, scale: 2.00, origin: (-10.00, -10.00)
+Treasure_Island outside the map
+  38 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  32 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . * . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . Ze. . . . . 
+  26 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . Xe. . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  20 . . . . . . . . . . . . . . . Be. . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  14 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . Ex. . . . . . . . . . . . . . 
+   8 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+   2 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  -4 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+ -10 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   -10    -4     2     8    14    20    26    32    38
+
+Time 14: Enter command: Xerxes attack Zebec
+Xerxes will attack Zebec
+
+Time 14: Enter command: go
+Ajax stopped at (0.00, 30.00)
+Island Exxon now has 4000.00 tons
+Island Shell now has 4000.00 tons
+Island Treasure_Island now has 175.00 tons
+Xerxes stopped at (25.00, 25.00)
+Xerxes is attacking
+Xerxes fires
+Zebec hit with 3, resistance now 0
+Zebec taking evasive action
+Zebec stopping attack
+Zebec will sail on course 225.00 deg, speed 12.00 nm/hr to Exxon
+Zebec now at (20.00, 20.00)
+
+Time 15: Enter command: go
+Ajax stopped at (0.00, 30.00)
+Island Exxon now has 4200.00 tons
+Island Shell now has 4200.00 tons
+Island Treasure_Island now has 180.00 tons
+Xerxes stopped at (25.00, 25.00)
+Xerxes is attacking
+Xerxes fires
+Zebec hit with 3, resistance now -3
+Zebec sunk
+
+Time 16: Enter command: show
+Display size: 25, scale: 2.00, origin: (-10.00, -10.00)
+Treasure_Island outside the map
+  38 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  32 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . * . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  26 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . Xe. . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  20 . . . . . . . . . . . . . . . Be. . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  14 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . Ex. . . . . . . . . . . . . . 
+   8 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+   2 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  -4 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+ -10 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   -10    -4     2     8    14    20    26    32    38
+
+Time 16: Enter command: status
+
+Cruiser Ajax at (0.00, 30.00), fuel: 234.14 tons, resistance: 3
+Stopped
+
+Island Bermuda at position (20.00, 20.00)
+Fuel available: 0.00 tons
+
+Island Exxon at position (10.00, 10.00)
+Fuel available: 4200.00 tons
+
+Island Shell at position (0.00, 30.00)
+Fuel available: 4200.00 tons
+
+Island Treasure_Island at position (50.00, 5.00)
+Fuel available: 180.00 tons
+
+Cruiser Xerxes at (25.00, 25.00), fuel: 1000.00 tons, resistance: 6
+Stopped
+Attacking absent ship
+
+Time 16: Enter command: go
+Ajax stopped at (0.00, 30.00)
+Island Exxon now has 4400.00 tons
+Island Shell now has 4400.00 tons
+Island Treasure_Island now has 185.00 tons
+Xerxes stopped at (25.00, 25.00)
+Xerxes stopping attack
+
+Time 17: Enter command: show
+Display size: 25, scale: 2.00, origin: (-10.00, -10.00)
+Treasure_Island outside the map
+  38 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  32 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . * . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  26 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . Xe. . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  20 . . . . . . . . . . . . . . . Be. . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  14 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . Ex. . . . . . . . . . . . . . 
+   8 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+   2 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+  -4 . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+     . . . . . . . . . . . . . . . . . . . . . . . . . 
+ -10 . . . . . . . . . . . . . . . . . . . . . . . . . 
+   -10    -4     2     8    14    20    26    32    38
+
+Time 17: Enter command: quit
+Done

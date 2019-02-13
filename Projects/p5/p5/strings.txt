@@ -1,0 +1,40 @@
+// Only strings that are new compared to Project 4 are shown.
+// two strings in a row means either a variable output or a manipulator would appear between them.
+
+// strings output from local view code
+"Local view for "  " at position "
+"Local view for "  " sunk at "
+
+// strings output from sailing data view code
+"----- Sailing Data -----"
+"Ship" "Fuel" "Course" "Speed"
+
+
+// Error strings output from Controller
+Error("Map view is already open!");
+Error("Map view is not open!");
+Error("Local view is already open for that ship!");
+Error("Local view for that ship is not open!");
+Error("Sailing data view is already open!");
+Error("Sailing data view is not open!");
+
+
+// strings output from Cruise_ship
+"\nCruise_ship ";
+"On cruise to "
+"Waiting during cruise at "
+ " cruise is over at " 
+ " canceling current cruise"
+ " cruise will start and end at "
+ " will visit " 
+"\nCruise_ship ";
+"On cruise to "
+"Waiting during cruise at "
+ " cruise is over at " 
+
+// strings output from warships
+"Attacking absent ship"
+
+// strings output from Torpedo_boat
+"\nTorpedo_boat "
+" taking evasive action"

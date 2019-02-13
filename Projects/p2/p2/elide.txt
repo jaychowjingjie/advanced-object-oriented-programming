@@ -1,0 +1,138 @@
+0 Strings using 0 bytes
+
+Watch them go in and out of scope
+in test_fn1:
+Ctor: "Good morning!"
+Ctor: "Good night!"
+Good morning!Good night!
+2 Strings using 26 bytes
+Dtor: "Good night!"
+Dtor: "Good morning!"
+0 Strings using 0 bytes
+
+Demonstrate initialization and copy and move construction
+Initialize a with String a = "Hello";
+Ctor: "Hello"
+Move ctor: "Hello"
+Dtor: ""
+Construct b from a
+Copy ctor: "Hello"
+Construct c from a + b
+Copy ctor: "Hello"
+Move ctor: "HelloHello"
+Dtor: ""
+Move ctor: "HelloHello"
+Dtor: ""
+a:Hello b:Hello c:HelloHello
+Construct d from function return value
+in test_fn2
+Ctor: "xxx"
+test_fn2 returning: xxx
+Move ctor: "xxx"
+Dtor: ""
+Move ctor: "xxx"
+Dtor: ""
+d:xxx
+4 Strings using 38 bytes
+Dtor: "xxx"
+Dtor: "HelloHello"
+Dtor: "Hello"
+Dtor: "Hello"
+
+Demonstrate assignment operators
+Ctor: ""
+Ctor: ""
+Ctor: ""
+Assign from a C-string
+Assign from C-string:  "Good Morning!"
+Ctor: "Good Morning!"
+Dtor: ""
+Assign from another String
+Copy assign from String:  "Good Morning!"
+Copy ctor: "Good Morning!"
+Dtor: ""
+Assign from a + b
+Copy ctor: "Good Morning!"
+Move ctor: "Good Morning!Good Morning!"
+Dtor: ""
+Move assign from String:  "Good Morning!Good Morning!"
+Dtor: ""
+a:Good Morning! b:Good Morning! c:Good Morning!Good Morning!
+3 Strings using 82 bytes
+Dtor: "Good Morning!Good Morning!"
+Dtor: "Good Morning!"
+Dtor: "Good Morning!"
+
+Demonstrate call and return by value
+Ctor: "initial a"
+Ctor: "initial b"
+Ctor: "initial c"
+Call a function with a call-by-value argument that returns that same variable
+Copy ctor: "initial a"
+test_fn3 got:initial a
+4 Strings using 40 bytes
+Assign from C-string:  "!!!"
+Ctor: "!!!"
+Dtor: "initial a"
+test_fn3 returning: !!!
+4 Strings using 34 bytes
+Move ctor: "!!!"
+Move assign from String:  "!!!"
+Dtor: "initial b"
+Dtor: ""
+function call result: !!!
+Call the same function with an argument of a + b
+Copy ctor: "initial a"
+Move ctor: "initial a!!!"
+Dtor: ""
+Move ctor: "initial a!!!"
+test_fn3 got:initial a!!!
+5 Strings using 50 bytes
+Assign from C-string:  "!!!"
+Ctor: "!!!"
+Dtor: "initial a!!!"
+test_fn3 returning: !!!
+5 Strings using 28 bytes
+Move ctor: "!!!"
+Move assign from String:  "!!!"
+Dtor: "initial c"
+Dtor: ""
+Dtor: ""
+function call result: !!!
+a:initial a b:!!! c:!!!
+3 Strings using 18 bytes
+Dtor: "!!!"
+Dtor: "!!!"
+Dtor: "initial a"
+
+Demonstrate move construction and assignment using std::move
+Ctor: "aaa"
+a has aaa
+1 Strings using 4 bytes
+move construct b from a
+Move ctor: "aaa"
+a now has "", b has "aaa"
+2 Strings using 4 bytes
+now move assign a from b
+Move assign from String:  "aaa"
+a now has "aaa", b has ""
+2 Strings using 4 bytes
+Dtor: ""
+Dtor: "aaa"
+
+Demonstrate swaping
+Ctor: "aaa"
+Ctor: "bbb"
+2 Strings using 8 bytes
+a now has "aaa", b has "bbb"
+let's swap their guts with String::swap!
+a now has "bbb", b has "aaa"
+let's swap their guts back with std::swap which uses std::move through a temporary String!
+Move ctor: "bbb"
+Move assign from String:  "aaa"
+Move assign from String:  "bbb"
+Dtor: ""
+a now has "aaa", b has "bbb"
+2 Strings using 8 bytes
+Dtor: "bbb"
+Dtor: "aaa"

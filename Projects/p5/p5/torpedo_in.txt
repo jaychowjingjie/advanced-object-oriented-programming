@@ -1,0 +1,45 @@
+create Zebec Torpedo_boat 30 -10
+Ajax position -10 -10 15
+Zebec attack Ajax
+open_map_view
+show
+go
+show
+go
+show
+go
+show
+go
+show
+Ajax destination Shell 15
+go
+show
+go
+show
+go
+show
+go
+show
+go
+show
+go
+show
+go
+show
+go
+Zebec dock_at Bermuda
+Zebec refuel
+Zebec attack Valdez
+go
+status
+show
+go
+show
+Xerxes attack Zebec
+go
+go
+show
+status
+go
+show
+quit

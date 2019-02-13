@@ -1,0 +1,72 @@
+<The following is a copy of the Autograder output, with explanation notes shown enclosed in angle brackets.>
+
+This message was sent by an automated reply program.
+Please do not reply to this message.
+
+We received the mail that you sent 
+
+------------------------------
+
+<The Console output tests first build your complete program. They then test whether your program as a whole behaves correctly by giving your program a test scenario along the same lines as the provided samples. Using redirected I/O, an input file is provided for stdin, emulating console input, and the resulting stdout output file is compared to the one produced by our version of the program. If the output matches, your program passes the test.>
+
+Check of Console Output Correctness
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+<The following three tests use the sample in/out files provided with the project. If your code matches these samples in your own testing, but fails in the autograder, it almost always means that you have relied on undefined behavior in your code, so that it behaves differently on the autograder platform than on yours. Check the pages about working with the autograder. >
+
+Test  0 (normal sample)
+    standard output,   worth  1 points:  passed
+Test  1 (errors sample)
+    standard output,   worth  1 points:  passed
+Test  2 (typeahead sample)
+    standard output,   worth  1 points:  passed
+
+<These two variety tests are similar in amount of data as the samples, but uses a variety of commands, which make a variety of errors and involve some type-ahead. If your code fails this test, a likely (but not only) possibility is that it is not responding to erroneous input correctly.>
+
+Test  3 (variety test - a variety of commands)
+    standard output,   worth  1 points:  passed
+Test  4 (more variety test - a different variety of commands)
+    standard output,   worth  1 points:  passed
+
+<The following tests cover how your restore command works, including a series of tests in which the data file has invalid data in it in different places. Review the specs if you code fails these tests. See also the check of the saved file below.>
+
+Test  5 (restore test)
+    standard output,   worth  1 points:  passed
+Test  6 (invalid data file test 1)
+    standard output,   worth  1 points:  passed
+Test  7 (invalid data file test 2)
+    standard output,   worth  1 points:  passed
+Test  8 (invalid data file test 3)
+    standard output,   worth  1 points:  passed
+Test  9 (invalid data file test 4)
+    standard output,   worth  1 points:  passed
+Test 10 (invalid data file test 5)
+    standard output,   worth  1 points:  passed
+
+<The "big data set" is my own collection of a few hundred movies. The purpose of these tests is to see if your program can deal with a large amount of data, with lengthy titles, many collections, etc, or if it breaks down. If it does, it could be that your use of allocated memory is incorrect, so that some of the data overwrites other data or data structure. It could fail for other reasons, like simple incorrect command handling, so don't obsess over possible memory management problems until your code is passing the other tests.>
+
+Test 11 (working with big data set)
+    standard output,   worth  1 points:  passed
+Test 12 (big data set restore test)
+    standard output,   worth  1 points:  passed
+
+      Score for Project 1 Output:  13 out of 13
+
+<The following tests examine whether the save file produced by your program has correct content. The first test compares your program's ability to reproduce the sample save file; the second tests the save file produced during working with the big data set.>
+
+Check of Output File Correctness
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Test  0 (check normal sample save file)
+    indirect output,   worth  1 points:  passed
+Test  1 (check big data set saved file)
+    indirect output,   worth  1 points:  passed
+
+      Score for Project 1 Output:   2 out of  2
+
+
+<Your total score and the bonus expressed as a proportion (0.1 = 10%) is the last result.>
+
+Project score: 15
+Bonus days: 0.1
+
+------------------------------
